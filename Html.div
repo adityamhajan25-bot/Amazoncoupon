@@ -1,0 +1,68 @@
+<section class="deal-card" style="border: 1px solid #ccc; padding: 15px; margin-bottom: 20px; border-radius: 8px; display: flex; align-items: center; gap: 20px;">
+
+    <a href="[YOUR_AMAZON_AFFILIATE_LINK_TO_KEYBOARD]" target="_blank" rel="nofollow noopener">
+        <img src="[PRODUCT_IMAGE_URL]" alt="Mechanical Keyboard Deal" style="width: 150px; height: auto; border-radius: 4px;">
+    </a>
+
+    <div class="deal-details" style="flex-grow: 1;">
+        <h2>[25% OFF] Wireless Mechanical Keyboard</h2>
+        <p>The ultimate typing experience for long coding sessions. Bluetooth compatible and fully customizable RGB.</p>
+        
+        <p style="font-size: 1.1em; color: #555;">
+            <strong>Regular Price:</strong> <del>$99.99</del><br>
+            <strong>🔥 Deal Price:</strong> <span style="color: #B12704; font-weight: bold; font-size: 1.4em;">$74.99</span>
+        </p>
+        
+        <a href="[YOUR_AMAZON_AFFILIATE_LINK_TO_KEYBOARD]" target="_blank" rel="nofollow noopener" 
+           style="background-color: #FF9900; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; margin-top: 10px;">
+            🛒 View Deal on Amazon
+        </a>
+
+        <p style="font-size: 0.9em; color: #a00; margin-top: 10px;">*Deal ends in 12 hours or when stock runs out!</p>
+    </div>
+</section>
+<section class="deal-card" style="border: 1px solid #ccc; padding: 15px; margin-bottom: 20px; border-radius: 8px; display: flex; align-items: center; gap: 20px;">
+
+    <a href="[YOUR_AMAZON_AFFILIATE_LINK_TO_BOOK]" target="_blank" rel="nofollow noopener">
+        <img src="[BOOK_IMAGE_URL]" alt="Python Learning Book Deal" style="width: 150px; height: auto; border-radius: 4px;">
+    </a>
+
+    <div class="deal-details" style="flex-grow: 1;">
+        <h2>Learning Python: The Definitive Guide</h2>
+        <p>A highly-rated resource for beginners and intermediate Python developers.</p>
+        
+        <p style="font-size: 1.1em; color: #555;">
+            <strong>Amazon Price:</strong> $45.00<br>
+            <strong>✨ Extra Savings:</strong> <span style="color: green; font-weight: bold; font-size: 1.4em;">$5.00 Clippable Coupon!</span>
+        </p>
+        
+        <a href="[YOUR_AMAZON_AFFILIATE_LINK_TO_BOOK]" target="_blank" rel="nofollow noopener" 
+           style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; margin-top: 10px;">
+            ✂️ Clip Coupon & Buy on Amazon
+        </a>
+    </div>
+</section>
+<section class="bounties-section" style="background-color: #f7f7f7; padding: 25px; border-radius: 8px; margin-top: 30px;">
+    <h2>🎁 Free Developer Resources & Trials</h2>
+    <div style="display: flex; justify-content: space-around; text-align: center; margin-top: 20px;">
+        
+        <div style="width: 45%;">
+            <h3>Audible (Coding Audiobooks)</h3>
+            <p>Get 2 free coding or tech audiobooks with a free 30-day trial. Cancel anytime!</p>
+            <a href="[YOUR_AMAZON_AUDIBLE_AFFILIATE_LINK]" target="_blank" rel="nofollow noopener" 
+               style="background-color: #28a745; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+                Start Free Trial
+            </a>
+        </div>
+        
+        <div style="width: 45%;">
+            <h3>Prime Student</h3>
+            <p>6 months free for students! Free 2-day shipping on all your textbooks & tech.</p>
+            <a href="[YOUR_AMAZON_PRIME_STUDENT_AFFILIATE_LINK]" target="_blank" rel="nofollow noopener" 
+               style="background-color: #007bff; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+                Claim 6 Months Free
+            </a>
+        </div>
+
+    </div>
+</section>
